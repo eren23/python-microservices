@@ -1,0 +1,6 @@
+env
+djangoenv
+docker-compose.yml
+.dbdata
+__pycache__
+settings.py
